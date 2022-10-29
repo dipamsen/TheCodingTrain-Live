@@ -1,0 +1,22 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.video-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
+h2 {
+  font-size: 2em;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  gap: 2em;
+  align-items: center;
+}

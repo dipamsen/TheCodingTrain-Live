@@ -1,0 +1,693 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "b_9SVaoBgjUZ7mHH9nCbxvbCmpw",
+  "nextPageToken": "CIwBEAA",
+  "prevPageToken": "CHgQAQ",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 288,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G_C4lzMSVbRkhghIi1u6p6K0Ppw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rkwn-7kZzjY"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T22:20:11Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #155: Mastodon Image Bot with Processing",
+        "description": "In this live stream, I make a Fractal Tree Mastodon Bot in Processing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rkwn-7kZzjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rkwn-7kZzjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rkwn-7kZzjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T22:20:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0BDYUQkm7KQkydvlCSrWWZ6n3uI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0IeqAd2H57g"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T16:07:44Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Text Generation using Spell with Nabil Hassein",
+        "description": "In this live stream, Nabil Hassein will demonstrate how to train an \"LSTM\" neural network to generate text in the style of a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0IeqAd2H57g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0IeqAd2H57g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0IeqAd2H57g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T16:07:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PMxdQLyWYejegjj_gQBzW_Wv-WM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tOJTDt1EtFU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-02T21:49:06Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #154: Quick p5 web editor tutorials",
+        "description": "Filling in some gaps for my NYU students: 1 - adding a new JS file in the web editor 2 - uploading images to the web editor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOJTDt1EtFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOJTDt1EtFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOJTDt1EtFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-02T21:49:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yZnfJBlMiXWUjnOPm-W5lGgkT4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4L4JyWyb3oI"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-01T21:09:30Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #153: Mastodon",
+        "description": "In this live stream, I attempt to make Mastodon tutorials https://github.com/CodingTrain/Mastodon-Bot Mastodon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4L4JyWyb3oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4L4JyWyb3oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4L4JyWyb3oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-01T21:09:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KhSrIhrqPl9rcFj2k7o54ME6AQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Adk4LjmYyYg"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-28T20:02:28Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #152: Lissajous Curve Table",
+        "description": "In this live stream, I attempt to visualize the Lissajous Curve Table in Processing and p5.js. Sorry for all the technical difficulties!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Adk4LjmYyYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Adk4LjmYyYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Adk4LjmYyYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-28T20:02:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mYusxpWm-s62RwocK4PVf57Yh8Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gye9hSIrRWI"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-21T19:34:55Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Style Transfer using Spell with Yining Shi",
+        "description": "In this live stream, Yining Shi demonstrates how to train a \"Style Transfer Model\" using Spell (Sign up here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gye9hSIrRWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gye9hSIrRWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gye9hSIrRWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-21T19:34:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "krCAa_n0ZRVkU4ffxXPvo7CDGV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JnEH9tYLxLk"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-11T23:17:51Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Build a Full Stack Twitter Clone with Coding Garden",
+        "description": "CJ is an Educator, Full Stack Developer and Maker. He streams himself live coding tutorials and walk throughs about Full Stack ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JnEH9tYLxLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JnEH9tYLxLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JnEH9tYLxLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-11T23:17:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jtjZeSFKptcAZF-EZDradBmlgek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wTDDsOZwdQY"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-08T01:45:07Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live  #150: Coding for Total Beginners with p5.js + Snake Game Redux",
+        "description": "Back to school! New beginner p5.js tutorials. Plus: Snake Game Revisited 35:44 - Coding for Beginners 1:12:12 - p5.js Web Editor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wTDDsOZwdQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wTDDsOZwdQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wTDDsOZwdQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-08T01:45:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yIHO5CWJ_ebAboda2ai5klKTMD0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KtcC0T1w3pc"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-08T00:01:38Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #151: 2018 Workflow (VSC, iTerm, zsh, etc.)",
+        "description": "In this live stream, I attempt to implement a quicksort algorithm in Processing. Then, I cover my new workflow for this year, repeat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KtcC0T1w3pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KtcC0T1w3pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KtcC0T1w3pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-08T00:01:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zUW1JIwwp9dPazYK5f4hV8TdLcc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mfOL2RIyk2c"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-07T14:15:39Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #149: More ml5.js",
+        "description": "More machine learning with ml5 and Bubble Sort Visualization 15:54 - ml5.js: Transfer Learning with Feature Extractor 1:16:40 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mfOL2RIyk2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mfOL2RIyk2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfOL2RIyk2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-07T14:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UHSx04NV2WLm5pOoGRoOd9L_PIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v6EmLhu7C9M"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-06T17:32:58Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #148.1: 3D Rendering Basics",
+        "description": "Drawing 3D shapes on 2D canvas. Part 2: https://youtu.be/M_YNwb7UudI 7:53 - Matrix Multiplication 54:45 - Coding ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v6EmLhu7C9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v6EmLhu7C9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6EmLhu7C9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-06T17:32:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WHy_Zk7IAeWx7CZP05pnVC8ZK-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M_YNwb7UudI"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-06T17:33:29Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #148.2: 4D Hypercube",
+        "description": "Rendering a 4D Hypercube in Processing. 22:50 - Coding Challenge: 4D Hypercube 3D Projection on Wikipedia: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_YNwb7UudI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_YNwb7UudI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_YNwb7UudI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-06T17:33:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HGJYKo_XVqIdy_ZtHmYw0GUEQ9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sz52VkVcW5o"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-28T13:23:28Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #147: A Beginners Guide to Machine Learning with ml5.js",
+        "description": "Introducing the ml5.js library: friendly machine learning for the web. I also attempt an \"animated sprites\" coding challenge. 32:10 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sz52VkVcW5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sz52VkVcW5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sz52VkVcW5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-28T13:23:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qcrcyljZIyfRQ9PaVmDqWlTBXWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XXwjcxMOA8s"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-22T19:22:47Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #146: Recamán&#39;s Sequence + ml5 Image Classifier",
+        "description": "Exploring Recamán's Sequence in p5.js + starting to explore the ml5.js library. 35:37 - Recamán's Sequence 1:27:05 - Sound ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XXwjcxMOA8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XXwjcxMOA8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XXwjcxMOA8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-22T19:22:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hxunws4mUMgdLpDZl1EGmGyPXVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gsJvZjlfNko"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-05T17:21:34Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #145: TensorFlow.js Color Classifier Continued",
+        "description": "Finishing the TensorFlow.js color classifier! 29:29 - Color Classifier Part 8 53:30 - Color Classifier Part 9 1:09:54 - Color Classifier ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsJvZjlfNko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsJvZjlfNko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsJvZjlfNko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-05T17:21:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q5nFx175DWI0rgjYcxIZyOlG7tI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UI5c1te1MjI"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-22T13:33:31Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live #144: Map Visualization of 500k Subscribers!",
+        "description": "Celebrating 500k subscribers, I create a map visualization of Coding Train subscriber locations around the world! 24:55 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UI5c1te1MjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UI5c1te1MjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UI5c1te1MjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-22T13:33:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bRsXPLDQ88hV1T02U6SYjFnCUww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jHnyFNMOffo"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-19T14:13:57Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live  #143: Color Classifier with TensorFlow.js",
+        "description": "Continuing the color classifier with TensorFlow.js. 23:11 - Color Classification Part 3 48:30 - Color Classification Part 4 1:18:43 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jHnyFNMOffo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jHnyFNMOffo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jHnyFNMOffo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-19T14:13:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tgiS77ThZbetyfNwwYf9ZyEMYHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_9ZerP7pGvc"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-18T01:41:15Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #142: Sandpile and Barnsley Fern Coding Challenges",
+        "description": "In this live stream I attempt two coding challenges and start a new project: color classifier with TensorFlow.js. 25:42 - Sandpile ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_9ZerP7pGvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_9ZerP7pGvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_9ZerP7pGvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-18T01:41:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F6-tqOW3y-ddegNwAZWqy33UmqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_wC4sn5qKQw"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-09T17:22:59Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #141: XOR with TensorFlow.js",
+        "description": "In this live stream I attempt to solve XOR for the umpteenth time, now with TensorFlow.js. Previous coding challenge 92: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wC4sn5qKQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wC4sn5qKQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wC4sn5qKQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-09T17:22:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nd2aVbFLQppaLKK-1Ric1KhARuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WVZ653QYjvQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-01T02:14:36Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #140: Polynomial Regression + TensorFlow.js layers API",
+        "description": "Polynomial regression challenge with TensorFlow.js + Layers API. 23:25 - Polynomial Regression 1:42:38 - TensorFlow.js: Layers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WVZ653QYjvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WVZ653QYjvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WVZ653QYjvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-01T02:14:36Z"
+      }
+    }
+  ]
+}

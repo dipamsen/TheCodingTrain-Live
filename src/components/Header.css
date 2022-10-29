@@ -1,0 +1,17 @@
+.header {
+  background-color: var(--purple);
+  color: #fff;
+  padding: 10px;
+  width: 100%;
+  display: flex;
+}
+
+.header .logo {
+  margin-right: 10px;
+  width: 40px;
+}
+.header h1 {
+  font-size: 2em;
+  margin: 0;
+  font-family: Cubano, sans-serif;
+}

@@ -1,0 +1,693 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "PA8qf-vpC_RtHv0i5CJdkGWo7xE",
+  "nextPageToken": "CNwBEAA",
+  "prevPageToken": "CMgBEAE",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 288,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hwzD6a7xhNpHv0R9_Gu7BeqPJgk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Do_Gftp_oug"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-05T18:00:06Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #91: Session 3 of “Intelligence and Learning”",
+        "description": "In this live stream, I introduce the concept of \"machine learning\" and build a simple movie recommendation engine. In honor of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Do_Gftp_oug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Do_Gftp_oug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Do_Gftp_oug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-05T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zTntnHd1lfM4BpbAFbOY2CfRxg0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NCvdjnN9UfI"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-29T18:49:19Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #90: Session 2 of “Intelligence and Learning” Continued",
+        "description": "In this live stream, I attempt to create a solution to the Traveling Sales Person Coding Challenge (https://youtu.be/BAejnwN4Ccw) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCvdjnN9UfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCvdjnN9UfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCvdjnN9UfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-29T18:49:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I3PgTVEQLaDUEnBzQ8Te63vznqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qzFlnX-z38U"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-15T10:58:33Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #89: Session 2 of “Intelligence and Learning”",
+        "description": "In this live stream I work on a five part coding challenge: evolving autonomous agents. This challenge is a follow-up to my genetic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qzFlnX-z38U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qzFlnX-z38U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzFlnX-z38U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-15T10:58:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9YGUKfXVKJXzYWbSzhYy6it_m9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YUlJAu1j_UM"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-26T13:25:19Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #88: Session 1 of “Intelligence and Learning”",
+        "description": "This live stream archive is the first session of the ITP \"Intelligence and Learning\" course (spring 2017) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YUlJAu1j_UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YUlJAu1j_UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YUlJAu1j_UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-26T13:25:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OjVc_2Te6K3XmqtDZSh_4EFKO64",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hVSHlFjTeqg"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T16:14:57Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live 87: Timer in JavaScript, Pong and Binary Tree",
+        "description": "In this live episode, I attempt several coding challenges. First I create a countdown timer in JavaScript. Second, I code the classic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hVSHlFjTeqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hVSHlFjTeqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hVSHlFjTeqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T16:14:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ha-jfhakIz-jJa9I0Sqxw9qP6c4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pvPSOli2nR0"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T16:12:45Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Coding Train Live  #87.1: Intro to &quot;Intelligence and Learning&quot; Class (+ Fire Alarm!) - Part 1",
+        "description": "In this short live stream, I discuss my upcoming ITP course: \"Intelligence and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvPSOli2nR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvPSOli2nR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvPSOli2nR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T16:12:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lJS4cXWRRLWSK_Ii2D3ZU4jjbxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RbpIAxb_LYg"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T16:13:10Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #87.2: Intro to &quot;Intelligence and Learning&quot; Class - Part 2",
+        "description": "In this live stream, I discuss my upcoming ITP course: \"Intelligence and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RbpIAxb_LYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RbpIAxb_LYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RbpIAxb_LYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T16:13:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aIk9YHYkHuvEC9_d5IHUUZeYRHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtFu66DZrBw"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-13T13:49:26Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #86: More Inverse Kinematics + Texturing Cloth Simulation",
+        "description": "In this live episode, I continue exploring the topic Inverse Kinematics. I also demonstrate how to apply a texture to a meshed 3D ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtFu66DZrBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtFu66DZrBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtFu66DZrBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-13T13:49:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AYJiYWQZe1R0FxkTnMUYdeQuJJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5itOWkmIarg"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-13T02:20:05Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #85: Forward and Inverse Kinematics",
+        "description": "In this live episode, I discuss Forward and Inverse Kinematics and attempt to make a variety of tentacle-like creatures. I also make ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5itOWkmIarg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5itOWkmIarg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5itOWkmIarg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-13T02:20:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MrftNZ8JSVSpj8vNWpoebJ3R42Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iu3M-X1yRFU"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-05T13:13:00Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #84: Plinko with Matter.js",
+        "description": "This episode is a three part coding challenge. I attempt to make Plinko with two JavaScript libraries: p5.js for rendering and the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iu3M-X1yRFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iu3M-X1yRFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iu3M-X1yRFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-05T13:13:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rhhoHFqYYfr8YdoZRJ51Pmkh3Ew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S5Qj-JgAN-M"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-25T15:10:32Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #81: Fractal Spirograph",
+        "description": "In this episode of The Coding Train Live I spend almost the entire time on one coding challenge: Fractal Spirograph with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S5Qj-JgAN-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S5Qj-JgAN-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S5Qj-JgAN-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-25T15:10:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rLeQCHaNw6l4RSonIb9tqL3Tvkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bMOv5vTC9uE"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-21T01:04:02Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #80: Prototypes in Javascript and Butterfly Wings Generator",
+        "description": "In this episode, I attempt to explain the concept of \"Prototype\" in the JavaScript programming language. I also create a Butterfly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bMOv5vTC9uE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bMOv5vTC9uE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bMOv5vTC9uE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-21T01:04:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VafvtskHZ3BrFCwqUb4OCnORw3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L1nHni9HMBw"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-18T16:52:04Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #79: 3D Earthquake Data Visualization &amp; Steering Behaviors",
+        "description": "In this episode, I follow up on the Earthquake Data Visualization challenge (https://youtu.be/ZiYdOwOrGyc) and create a 3D ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L1nHni9HMBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L1nHni9HMBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L1nHni9HMBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-18T16:52:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GM7Xpg2PIxAAn-aQmIMN10xnWVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UiYb4yCsqFE"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-11T19:09:59Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #78: More Earthquake Data Visualization",
+        "description": "This Live Stream is the continuation of the Earthquake Data Visualization / Mapping challenge I attempted in episode #77. Links to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UiYb4yCsqFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UiYb4yCsqFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UiYb4yCsqFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-11T19:09:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TBO9YTeO_dx0_7YoB49qYzrZ114",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qTxPqMI69aM"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-11T19:09:59Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #77: Earthquake Data Visualization and more on Star Patterns",
+        "description": "In this episode, I follow-up and improve on the Islamic Star Patterns algorithm using the Law of Sines. Afterwards I attempt an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTxPqMI69aM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTxPqMI69aM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTxPqMI69aM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-11T19:09:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p0XDIeNCvmJefkLfXIKI0VgU4HI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OkkjlHTdLGI"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-08T00:19:33Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #76: Attractors, Algorithmic Roses and p5.js Coding Setups",
+        "description": "In this episode, I cover a variety of topics. I look at several editor possibiltiies to use with p5.js: Brackets, the OpenProcessing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkkjlHTdLGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkkjlHTdLGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkkjlHTdLGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-08T00:19:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nI4KaLNiCgZDRSGuIusjgcyktaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hCjTKCb2Cuw"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-01T16:53:47Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #75: Islamic Star Patterns",
+        "description": "In this bonus unedited live stream archive I work through visualizing Islamic Star Patterns in p5.js based on the paper: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCjTKCb2Cuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCjTKCb2Cuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCjTKCb2Cuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-01T16:53:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ygMiP-KRfrFvIzT9yW1s2JVi-Jw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mrAeK43YDgw"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-31T01:40:57Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #74: Processing, p5.js and more Random Walks",
+        "description": "In this Coding Train episode, I compare p5.js and Processing and discuss differences around performance, language, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mrAeK43YDgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mrAeK43YDgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mrAeK43YDgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-31T01:40:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lyKQA4hFCpDIKsannPkquV0MS7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RDULjRLn3pk"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-27T04:38:53Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #73: Random Walk",
+        "description": "In this shorter Coding Train episode, I discussthe course I am teaching this semester (Spring 2017) at http://itp.nyu.edu: The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDULjRLn3pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDULjRLn3pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDULjRLn3pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-27T04:38:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZbYQfgHjinIR2cydayaYzZjWQdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4yQYiAECnM"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-14T02:31:01Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "Live Stream #72: A* Pathfinding Algorithm",
+        "description": "Welcome to the first live episode of The Coding Train! In today's session, I attempt to implement the A* Pathfinding Algorithm.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4yQYiAECnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4yQYiAECnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4yQYiAECnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-14T02:31:01Z"
+      }
+    }
+  ]
+}
