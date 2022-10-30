@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Header from "./components/Header";
 import VideoCard from "./components/VideoCard";
 import "./App.css";
-import { getLiveStreams, VIDEOS_PER_PAGE } from "./utils";
+import { getVideos, VIDEOS_PER_PAGE } from "./utils";
 import Pagination from "./components/Pagination";
 import { useParams, useNavigate } from "react-router-dom";
 
@@ -14,7 +14,7 @@ function App() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    getLiveStreams(+page).then(([data, totalVideos]) => {
+    getVideos(+page).then(([data, totalVideos]) => {
       setVideos(data);
       setTotalPages(Math.ceil(totalVideos / VIDEOS_PER_PAGE));
     });
@@ -36,7 +36,7 @@ function App() {
         />
         <div className="video-container">
           {videos.map((video: any) => (
-            <VideoCard key={video.id.videoId} video={video} />
+            <VideoCard key={video.id} video={video} />
           ))}
         </div>
 

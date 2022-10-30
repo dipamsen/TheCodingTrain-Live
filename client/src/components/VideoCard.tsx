@@ -8,27 +8,27 @@ export default function VideoCard({ video }: { video: any }) {
     <div
       className="video-card"
       onClick={() => {
-        navigate("/ls/" + video.id.videoId);
+        navigate("/ls/" + video.id);
       }}
     >
       <img
-        src={video.snippet.thumbnails.high.url}
+        src={video.thumbnails.high.url}
         alt="thumbnail"
         className="video-thumbnail"
       />
       <div className="video-info">
         <p
           className="video-title"
-          dangerouslySetInnerHTML={{ __html: video.snippet.title }}
+          dangerouslySetInnerHTML={{ __html: video.title }}
         ></p>
         <p className="video-date text">
-          {new Date(video.snippet.publishedAt).toLocaleDateString("en-US", {
+          {new Date(video.publishedAt).toLocaleDateString("en-US", {
             year: "numeric",
             month: "long",
             day: "numeric",
           })}
         </p>
-        <p className="video-description text">{video.snippet.description}</p>
+        <p className="video-description text">{video.description}</p>
       </div>
     </div>
   );
