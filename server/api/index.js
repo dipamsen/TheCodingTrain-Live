@@ -1,5 +1,5 @@
 import express from "express";
-import allStreams from "./data/allstreams.json" assert { type: "json" };
+import allStreams from "../data/allstreams.json" assert { type: "json" };
 import axios from "axios";
 import dotenv from "dotenv";
 import cors from "cors";
@@ -33,3 +33,5 @@ app.get("/stream/:id", async (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
   console.log("Server is running on port 3000");
 });
+
+export default app;
