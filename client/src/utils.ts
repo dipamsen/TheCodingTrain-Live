@@ -1,6 +1,8 @@
 export const VIDEOS_PER_PAGE = 20;
 const API_URL =
-  location.hostname === "localhost" ? "http://localhost:3000" : "API URL";
+  location.hostname === "localhost"
+    ? "http://localhost:3000"
+    : "https://codingtrainlive-api.vercel.app";
 
 const cache: any = {};
 
