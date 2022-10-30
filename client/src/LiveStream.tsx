@@ -25,9 +25,16 @@ function LiveStream() {
       {loaded && video ? (
         <div className="container">
           <h2>
-            Live Stream:{" "}
+            {video.snippet.channelTitle === "The Coding Train"
+              ? "YT Live Stream:"
+              : "Twitch VOD Uploaded on:"}{" "}
             {new Date(video.snippet.publishedAt).toLocaleDateString()}
           </h2>
+          {video.snippet.channelTitle !== "The Coding Train" && (
+            <div className="text">
+              (The date of broadcast can be seen in the Stream on Dan's Laptop.)
+            </div>
+          )}
           <div className="video-container">
             <iframe
               width="800"
