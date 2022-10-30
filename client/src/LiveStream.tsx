@@ -1,9 +1,8 @@
 import { useEffect, useState } from "react";
 import Header from "./components/Header";
-import VideoCard from "./components/VideoCard";
 import "./App.css";
-import { getLiveStreams, getVideoInfo, VIDEOS_PER_PAGE } from "./utils";
-import { useParams, useNavigate } from "react-router-dom";
+import { getVideoInfo } from "./utils";
+import { useParams } from "react-router-dom";
 
 function LiveStream() {
   const [loaded, setLoaded] = useState(false);
