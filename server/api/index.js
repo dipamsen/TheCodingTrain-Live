@@ -1,8 +1,9 @@
-import express from "express";
-import allStreams from "../data/allstreams.json" assert { type: "json" };
-import axios from "axios";
-import dotenv from "dotenv";
-import cors from "cors";
+const express = require("express");
+const allStreams = require("../data/allstreams.json");
+const axios = require("axios");
+const dotenv = require("dotenv");
+const cors = require("cors");
+
 dotenv.config();
 
 const API_KEY = process.env.API_KEY;
@@ -34,4 +35,4 @@ app.listen(process.env.PORT || 3000, () => {
   console.log("Server is running on port 3000");
 });
 
-export default app;
+module.exports = app;
