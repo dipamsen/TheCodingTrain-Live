@@ -1,5 +1,29 @@
 [
   {
+    "id": "EzYDNydDUfc",
+    "title": "Coding Trail Live:  The Coding Train Rides the Oregon Trail",
+    "description": "Sign up for the CuriosityStream + Nebula bundle with a 26% exclusive discount ($14.79 for a full year!)",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/EzYDNydDUfc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/EzYDNydDUfc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/EzYDNydDUfc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2022-11-18T17:11:04.000Z",
+    "type": "youtube"
+  },
+  {
     "id": "EiYhMpZ_43M",
     "title": "Back to School on the Coding Train",
     "description": "Agenda: * thecodingtrain.com updates * Processing 4 review * Apple II+ questions and comments * Passenger Showcase Review ...",
@@ -362,7 +386,7 @@
   {
     "id": "kTVUvfp5og8",
     "title": "Coding Train Live: Shaders and Autoencoders",
-    "description": "Things I don't really know about: Shaders and Autoencoders! To learn more about Brilliant, go to https://brilliant.org/CodingTrain ...",
+    "description": "In this episode of Coding Train Live, I cover two things I don't really know about: Shaders and Autoencoders! Timestamps: 10:10 ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/kTVUvfp5og8/default.jpg",
@@ -793,8 +817,8 @@
   },
   {
     "id": "F3Q4Cf9OZSw",
-    "title": "Coding Train Live!",
-    "description": "Sign up for the CuriosityStream + Nebula bundle with a 26% exclusive discount ($14.79 for a full year!)",
+    "title": "Coding Train Live: Self-Avoiding Walk and Discord bot",
+    "description": "In this episode, I cover self-avoiding walks and talk about the Discord bot. Timestamps: 6:16 Start 11:54 Graph a sine wave 22:22 ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/F3Q4Cf9OZSw/default.jpg",
@@ -1129,8 +1153,8 @@
   },
   {
     "id": "pbXxWPvcIrw",
-    "title": "Side Project Saturday! (Live from the Attic)",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Trade Live:  Side Project Saturday! (Live from the Attic)",
+    "description": "In this episode of Side Project Saturday (Live from the Attic), I explore generator functions. Exploring Generator Functions Sketch: ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/pbXxWPvcIrw/default.jpg",
@@ -1153,8 +1177,8 @@
   },
   {
     "id": "gg7lPyFQau4",
-    "title": "Side Project Saturday! (Live from the Attic)",
-    "description": "34WN750 LG.com https://bit.ly/3he9B21 34WN750 Amazon https://geni.us/34WN750CodingTrain 0:00 Start! 5:50 Introduction ...",
+    "title": "Coding Train Live: Side Project Saturday! (Live from the Attic)",
+    "description": "In this episode, I look at showcases and live poll application. 0:00 Start! 5:50 Introduction 8:38 LG (*sponsor) 14:45 Setting Up ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/gg7lPyFQau4/default.jpg",
@@ -1201,8 +1225,8 @@
   },
   {
     "id": "W3W7OQmanJw",
-    "title": "The Coding Train: Live from the Attic 2!",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live: Live from the Attic 2!",
+    "description": "In this episode of Live from the Attic, I attempt to program the Every Day Calendar by Simone Giertz ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/W3W7OQmanJw/default.jpg",
@@ -1225,8 +1249,8 @@
   },
   {
     "id": "wcAni_ysbzc",
-    "title": "The Coding Train Morning Show: Live from the Attic!",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live: Live from the Attic!",
+    "description": "In this episode of the Coding Train Morning Show, I look at community contributions and discuss fall plans. Timestamps: 0:00 Start ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/wcAni_ysbzc/default.jpg",
@@ -1249,8 +1273,8 @@
   },
   {
     "id": "6Uy1SifiBig",
-    "title": "The Coding Train Morning Show: Marching Squares and Flocking Mewchoo",
-    "description": "Notion now comes with a free personal plan, learn more here: https://bit.ly/notioncodingtrain Discussing Marching Squares and ...",
+    "title": "Coding Train Live:  Marching Squares and Flocking Mewchoo",
+    "description": "In this episode of the Coding Train Morning Show, I discuss Marching Squares and Marching Cubes, community contributions!",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/6Uy1SifiBig/default.jpg",
@@ -1297,8 +1321,8 @@
   },
   {
     "id": "6p_JM-I7FUg",
-    "title": "The Coding Train Morning Show: Exploring the YouTube API",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live: Exploring the YouTube API",
+    "description": "In this morning show edition, I explore the YouTube API. Timestamps: 0:00 Live Stream Starts 4:31 Introduction 13:55 Summer ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/6p_JM-I7FUg/default.jpg",
@@ -1345,8 +1369,8 @@
   },
   {
     "id": "kWsDL-6D-nk",
-    "title": "Coding Train Late Night 3: GPT-2, Hue Lights, Discord Bot",
-    "description": "0:00 Live Stream Starts 3:50 Introduction 9:50 AI Joke Generator 13:30 Live Stream Notes 19:50 Generative Text Training with ...",
+    "title": "Coding Train Live:  GPT-2, Hue Lights, Discord Bot",
+    "description": "Late Night episode 3 with GPT-2, Hue Lights, Discord Bot. Timestamps: 0:00 Live Stream Starts 3:50 Introduction 9:50 AI Joke ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/kWsDL-6D-nk/default.jpg",
@@ -1369,8 +1393,8 @@
   },
   {
     "id": "0LZUSkwCYfU",
-    "title": "Coding Train Late Night 2: Fetch, GPT-2 and RunwayML",
-    "description": "0:00 Live Stream Starts 3:51 Introduction With Dad Jokes 11:29 Coding Late At Night Projects and Notes 16:48 Scraping Dad ...",
+    "title": "Coding Train Live:  Coding Train Late Night 2: Fetch, GPT-2 and RunwayML",
+    "description": "Timestamps: 0:00 Live Stream Starts 3:51 Introduction With Dad Jokes 11:29 Coding Late At Night Projects and Notes 16:48 ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/0LZUSkwCYfU/default.jpg",
@@ -1393,8 +1417,8 @@
   },
   {
     "id": "wKGKYAnlyRQ",
-    "title": "Coding Train Late Night 1",
-    "description": "0:00 Live Stream Starts 6:06 Introduction 14:45 Creating The Late Night Repository 33:10 Pumpkin Timer Overlay 49:00 Pumpkin ...",
+    "title": "Coding Train Live:  Coding Train Late Night 1",
+    "description": "Timestamps: 0:00 Live Stream Starts 6:06 Introduction 14:45 Creating The Late Night Repository 33:10 Pumpkin Timer Overlay ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/wKGKYAnlyRQ/default.jpg",
@@ -1441,8 +1465,8 @@
   },
   {
     "id": "0d3sE-1en_Y",
-    "title": "Saturday Morning Choo Choo",
-    "description": "Sharing community contributions! Losing \"Code Clashes\"! Announcing ml5 neuro evolution! 0:00 Live Stream Starts 7:22 ...",
+    "title": "Coding Train Live:  Saturday Morning Choo Choo",
+    "description": "Sharing community contributions! Losing \"Code Clashes\"! Announcing ml5 neuro evolution! Timestamps: 0:00 Live Stream Starts ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/0d3sE-1en_Y/default.jpg",
@@ -1465,8 +1489,8 @@
   },
   {
     "id": "3z9d3tqVRyc",
-    "title": "The Coding Train at Home",
-    "description": "HELP FIGHT CORONAVIRUS: https://covid19responsefund.org/ #StayHome #WithMe Agenda: * ml5 neuro-evolution * Worley ...",
+    "title": "Coding Train Live:  The Coding Train at Home",
+    "description": "In this episode, I code a Worley noise coding challenge. Worley Noise challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/3z9d3tqVRyc/default.jpg",
@@ -1489,8 +1513,8 @@
   },
   {
     "id": "3vedfD0UTlM",
-    "title": "The Coding Train at Home (Kids Teach me Scratch!)",
-    "description": "HELP FIGHT CORONAVIRUS: https://covid19responsefund.org/ #StayHome #WithMe Scratch Project: ...",
+    "title": "Coding Train Live:  The Coding Train at Home (Kids Teach me Scratch!)",
+    "description": "The Coding Train at Home: coding in Scratch. Timestamps: 0:00 Live Stream Starts 6:45 Introduction 20:54 Coding With Kids in ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/3vedfD0UTlM/default.jpg",
@@ -1513,8 +1537,8 @@
   },
   {
     "id": "AkySW5uy7rU",
-    "title": "Searching for Digits in Pi",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 189: Searching for Digits in Pi",
+    "description": "In this episode, I do a Pi day challenge. Peeking in Pi challenge https://thecodingtrain.com/challenges/156-peeking-inside-pi ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/AkySW5uy7rU/default.jpg",
@@ -1729,8 +1753,8 @@
   },
   {
     "id": "3wMFd8OGI84",
-    "title": "Processing Foundation Holiday Telethon 2019",
-    "description": "https://donorbox.org/supportpf2019-fundraising-campaign ...",
+    "title": "Coding Train Live:  Processing Foundation Holiday Telethon 2019",
+    "description": "The Coding Train relies heavily on open source software toolkits for the arts, especially Processing and p5.js from The Processing ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/3wMFd8OGI84/default.jpg",
@@ -1825,8 +1849,8 @@
   },
   {
     "id": "rv98KUFtF9U",
-    "title": "Tic Tac Toe AI with Minimax",
-    "description": "I'm going to revisit the Tic Tac Toe challenge and create an \"AI\" that plays the game with the \"minimax\" algorithm.",
+    "title": "Coding Train Live 188:  Tic Tac Toe AI with Minimax",
+    "description": "In this live episode, I revisit the Tic Tac Toe challenge and create an \"AI\" that plays the game with the \"minimax\" algorithm.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/rv98KUFtF9U/default.jpg",
@@ -1897,8 +1921,8 @@
   },
   {
     "id": "gaWNmLyJiUk",
-    "title": "Live Stream #188: ml5.neuralNetwork",
-    "description": "Try Dashlane here: https://dashlane.com/codingtrain. Get 10% off now with code: \"codingtrain\". Linode $20 free credit ...",
+    "title": "Coding Train Live 188: ml5.neuralNetwork",
+    "description": "In this episode of the Coding Train Live, I code a ml5 neural network. Timestamps: 0:00 Start! 5:28 Introduction 12:27 Community ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/gaWNmLyJiUk/default.jpg",
@@ -1921,8 +1945,8 @@
   },
   {
     "id": "HhceJ5xxl-4",
-    "title": "Live Stream #187: Fractal #TeamTrees with Physics",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 187: Fractal #TeamTrees with Physics",
+    "description": "In this episode of the Coding Train Live, I do a Team Trees coding challenge. 🕹️ p5.js Web Editor Sketch: ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/HhceJ5xxl-4/default.jpg",
@@ -1945,8 +1969,8 @@
   },
   {
     "id": "GMaKcRkiNoM",
-    "title": "Live Stream #186: Interactive Drawing with SketchRNN",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 186: Interactive Drawing with SketchRNN",
+    "description": "In this episode of the Coding Train Live, I do an Interactive Drawing with SketchRNN challenge. Interactive Draw with ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/GMaKcRkiNoM/default.jpg",
@@ -1969,8 +1993,8 @@
   },
   {
     "id": "5S87w8IqSHI",
-    "title": "Live Stream #185: RDP Algorithm",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 185: RDP Algorithm",
+    "description": "In this episode of the Coding Train Life, I code the RDP algorithm. RDP Algorithm Challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/5S87w8IqSHI/default.jpg",
@@ -1993,8 +2017,8 @@
   },
   {
     "id": "jKHgVdyC55M",
-    "title": "Live Stream #184:  uNet and BodyPix with ml5.js",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 184:  uNet and BodyPix with ml5.js",
+    "description": "In this episode of the Coding Train Live, I revisit the Ukulele Tuner, look at community contributions, and discuss ml5.js Image ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/jKHgVdyC55M/default.jpg",
@@ -2017,7 +2041,7 @@
   },
   {
     "id": "1b9-O7pnUcg",
-    "title": "Live Stream #183: Brooklyn Studio, ml5.js Pitch Detection",
+    "title": "Coding Train Live 183: Brooklyn Studio, ml5.js Pitch Detection",
     "description": "I'm back! Almost! In this stream, I'm going to test the new equipment and talk about plans for 2019-2020. If I'm feeling saucy, ...",
     "thumbnails": {
       "default": {
@@ -2041,7 +2065,7 @@
   },
   {
     "id": "QzRW0xzm10c",
-    "title": "Live Stream #182: Introduction to RunwayML",
+    "title": "Coding Train Live 182: Introduction to RunwayML",
     "description": "This special summer live stream will cover how to install and run machine learning models with Runway! For more, visit ...",
     "thumbnails": {
       "default": {
@@ -2065,8 +2089,8 @@
   },
   {
     "id": "Y6cMTh2BODY",
-    "title": "Live Stream #181: Processing Library + Tic Tac Toe",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 181: Processing Library + Tic Tac Toe",
+    "description": "In this episode of the Coding Train Live, I work on building a Processing Library in Java and to a Tic Tac Toe coding challenge.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Y6cMTh2BODY/default.jpg",
@@ -2089,8 +2113,8 @@
   },
   {
     "id": "rnJgb-mYPEI",
-    "title": "Live Stream #180: Processing Java Library, Starting Computational Geometry Challenges",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 180: Processing Java Library, Starting Computational Geometry Challenges",
+    "description": "In this episode of The Coding Train Live, I revisit the Chrome Dinosaur challenge, work on building a processing Java library, and ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/rnJgb-mYPEI/default.jpg",
@@ -2113,8 +2137,8 @@
   },
   {
     "id": "eRy3j1Alzko",
-    "title": "Live Stream #179: Chrome Dinosaur Game + ml5 Speech Commands Model",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "title": "Coding Train Live 179: Chrome Dinosaur Game + ml5 Speech Commands Model",
+    "description": "In this live stream: Welcome to another episode in the Beginners Guide to Machine Learning with ml5.js in JavaScript series.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/eRy3j1Alzko/default.jpg",
@@ -2161,8 +2185,8 @@
   },
   {
     "id": "mXDrH0wStHs",
-    "title": "Live Stream #178: Neuroevolution Steering Vehicles",
-    "description": "Try Dashlane here: https://dashlane.com/codingtrain. Get 10% off now with my promo code: \"codingtrain\". In this video, I tackle ...",
+    "title": "Coding Train Live 178: Neuroevolution Steering Vehicles",
+    "description": "In this video, I tackle neuroevolution steering vehicles. Timestamps: 0:00 Start! 5:20 Introduction 10:43 Rubik's Cube 19:31 ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/mXDrH0wStHs/default.jpg",
@@ -2185,8 +2209,8 @@
   },
   {
     "id": "-6iIc6-Y-kk",
-    "title": "Live Stream #177: 2D Ray Casting and Ray Marching",
-    "description": "Today we will explore 2D Ray Casting and Ray Marching https://thecodingtrain.com/CodingChallenges/ ...",
+    "title": "Coding Train Live 177: 2D Ray Casting and Ray Marching",
+    "description": "Today we will explore 2D Ray Casting and Ray Marching Ray-casting Challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/-6iIc6-Y-kk/default.jpg",
@@ -2209,8 +2233,8 @@
   },
   {
     "id": "tWyp2OWWcws",
-    "title": "Live Stream #176: Simple 2D Black Hole Simulation and NeuroEvolution with TensorFlow.js",
-    "description": "To try the Brilliant stacks and queues quiz, go to https://brilliant.org/TheCodingTrainStack/ and sign up for free. The first 200 ...",
+    "title": "Coding Train Live 176: Simple 2D Black Hole Simulation and NeuroEvolution with TensorFlow.js",
+    "description": "In this episode of the Coding Train Live, I do a simple 2D black hole simulation and discuss NeuroEvolution with TensorFlow.js.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/tWyp2OWWcws/default.jpg",
@@ -2257,7 +2281,7 @@
   },
   {
     "id": "GbHGGYSwVvY",
-    "title": "Live Stream #174: Rubik&#39;s Cube continued...",
+    "title": "Coding Train Live 174: Rubik&#39;s Cube continued...",
     "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
     "thumbnails": {
       "default": {
@@ -2282,7 +2306,7 @@
   {
     "id": "277611ExU9A",
     "title": "Coding Train Live 173: Rubik&#39;s Cube and Quicksort Visualization",
-    "description": "To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will ...",
+    "description": "Welcome to another live stream on Rubik's Cube and Quicksort Visualization! I will try to program a simulation of the cube in 3D ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/277611ExU9A/default.jpg",
@@ -2330,7 +2354,7 @@
   {
     "id": "78ZthTGcdPw",
     "title": "Coding Train Live 172: Happy Pi Day!",
-    "description": "Happy Pi Day! For this live stream, we will be exploring Pi Day Collisions. *Euler Method 23:18 *Community Contributions 1:11:11 ...",
+    "description": "Happy Pi Day! For this live stream, we will be different ways of calculating Pi. Pi with Collisions challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/78ZthTGcdPw/default.jpg",
@@ -2353,8 +2377,8 @@
   },
   {
     "id": "EvOC_vyFAiI",
-    "title": "Coding Train Live 171: Time to put away the noise loops!",
-    "description": "Angry Birds with Matter.js * Starting the Data + APIs playlist * Making a Processing Java (Library) Part 1 * Terrain OpenSimple ...",
+    "title": "Coding Train Live 171: Fetch function and Angry Birds with Matter.js",
+    "description": "In this session, I start the Data + APIs playlist by covering the Fetch function and do an Angry Birds with Matter.js coding challenge.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/EvOC_vyFAiI/default.jpg",
@@ -2497,8 +2521,8 @@
   },
   {
     "id": "-VfWfi7Goik",
-    "title": "Live Stream #166.1: Finish Up Fourier + ml5 KNN",
-    "description": "Finishing up the Fourier Transform Drawing example. Also covering KNN Classification with image features.",
+    "title": "Coding Train Live 166.1: Finish Up Fourier + ml5 KNN",
+    "description": "In this live episode, I finish up the Fourier Transform drawing example, and cover KNN Classification with image features.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/-VfWfi7Goik/default.jpg",
@@ -2522,7 +2546,7 @@
   {
     "id": "0b3R8oWffkw",
     "title": "Coding Train Live 165: Drawing with Fourier Transform",
-    "description": "Drawing with Fourier Transform! https://thecodingtrain.com/challenges/130-drawing-with-fourier-transform-and-epicycles ...",
+    "description": "In this live season, I do a Drawing with Fourier Transform coding challenge. Drawing with Fourier transform and Epicycles ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/0b3R8oWffkw/default.jpg",
@@ -2569,8 +2593,8 @@
   },
   {
     "id": "WACLmPBxMaw",
-    "title": "Processing Foundation Holiday Telethon 2018",
-    "description": "https://processingfoundation.org/support/ The Coding Train relies heavily on open source software toolkits for the arts, especially ...",
+    "title": "Coding Train Live:  Processing Foundation Holiday Telethon 2018",
+    "description": "The Coding Train relies heavily on open source software toolkits for the arts, especially Processing and p5.js from The Processing ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/WACLmPBxMaw/default.jpg",
@@ -2618,7 +2642,7 @@
   {
     "id": "pKyU92cza0Y",
     "title": "Coding Train Live 163: Toothpicks and Fourier Series",
-    "description": "Toothpicks patterns and Fourier Series in p5.js! https://thecodingtrain.com/challenges/125-fourier-series ...",
+    "description": "Toothpicks patterns and Fourier Series in p5.js! Fourier series challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/pKyU92cza0Y/default.jpg",
@@ -2641,8 +2665,8 @@
   },
   {
     "id": "qtUV-DoSOpk",
-    "title": "Live Stream #162: Flocking Simulation(&quot;Boids&quot;)",
-    "description": "Making a Flocking \"Boid\" Simulation in p5.js, based on Craig Reynolds' work. 22:30 - Coding Challenge: Flocking Simulation ...",
+    "title": "Coding Train Live 162: Flocking Simulation(&quot;Boids&quot;)",
+    "description": "In this live session, I making a Flocking \"Boid\" Simulation in p5.js, based on Craig Reynolds' work. Flocking Simulation ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/qtUV-DoSOpk/default.jpg",
@@ -2785,8 +2809,8 @@
   },
   {
     "id": "flHxQpyiDNc",
-    "title": "Coding Train Live  #158: Logo Interpreter",
-    "description": "In this live stream, I make a Logo interpreter in JavaScript ...",
+    "title": "Coding Train Live  158: Logo Interpreter",
+    "description": "In this live stream, I make a Logo interpreter in JavaScript. Logo Interpreter challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/flHxQpyiDNc/default.jpg",
@@ -2881,7 +2905,7 @@
   },
   {
     "id": "rkwn-7kZzjY",
-    "title": "Live Stream #155: Mastodon Image Bot with Processing",
+    "title": "Coding Train Live155: Mastodon Image Bot with Processing",
     "description": "In this live stream, I make a Fractal Tree Mastodon Bot in Processing.",
     "thumbnails": {
       "default": {
@@ -3313,8 +3337,8 @@
   },
   {
     "id": "_wC4sn5qKQw",
-    "title": "Live Stream #141: XOR with TensorFlow.js",
-    "description": "In this live stream I attempt to solve XOR for the umpteenth time, now with TensorFlow.js. Previous coding challenge 92: ...",
+    "title": "Coding Train Live 141: XOR with TensorFlow.js",
+    "description": "In this live stream, I attempt to solve XOR for the umpteenth time, now with TensorFlow.js. XOR problem challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/_wC4sn5qKQw/default.jpg",
@@ -3505,7 +3529,7 @@
   },
   {
     "id": "emjv5tr-m7Q",
-    "title": "Live Stream #133: Neuroevolution Flappy Bird Continued",
+    "title": "Coding Train Live 133: Neuroevolution Flappy Bird Continued",
     "description": "In this live stream, I make some improvements to the neuroevolution flappy bird challenge ...",
     "thumbnails": {
       "default": {
@@ -3529,7 +3553,7 @@
   },
   {
     "id": "ipMekhLS2M0",
-    "title": "Live Stream #132: Neuroevolution Flappy Bird &amp; p5.js in Spanish",
+    "title": "Coding Train Live Stream 132: Neuroevolution Flappy Bird &amp; p5.js in Spanish",
     "description": "100th Coding Challenge: Neuroevolution Flappy Bird! Also, a announcement from The Processing Foundation about p5.js in ...",
     "thumbnails": {
       "default": {
@@ -3841,7 +3865,7 @@
   },
   {
     "id": "ze_o4YvZ6-s",
-    "title": "Live Stream #122: filter(), sort() and 2048",
+    "title": "Coding Train Live 122: filter(), sort() and 2048",
     "description": "In this live stream, I continue the topic of higher order functions and cover the array functions \"sort()\" and \"filter().\" I rewrite the ...",
     "thumbnails": {
       "default": {
@@ -3865,8 +3889,8 @@
   },
   {
     "id": "kWoZ9_ECZxQ",
-    "title": "Live Stream #121: map() and reduce() in JavaScript",
-    "description": "In this live stream, I cover higher order functions in JavaScript and discuss them in the context of arrays: map() and reduce() 19:04 ...",
+    "title": "Coding Train Live 121: map() and reduce() in JavaScript",
+    "description": "In this live stream, I cover higher order functions in JavaScript and discuss them in the context of arrays: map() and reduce() ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/kWoZ9_ECZxQ/default.jpg",
@@ -3985,7 +4009,7 @@
   },
   {
     "id": "ZXPMgpPj56s",
-    "title": "Live Stream #117.1 - Unit Testing and CI with CircleCI - Part 1",
+    "title": "Coding Train Live 117.1 - Unit Testing and CI with CircleCI - Part 1",
     "description": "In this two-part live stream, I discuss unit testing and continuous integration. This first part has some introductory information, but ...",
     "thumbnails": {
       "default": {
@@ -4057,8 +4081,8 @@
   },
   {
     "id": "XHj52k75PYo",
-    "title": "Live Stream #115 - Backpropagation",
-    "description": "This live stream is a continuation of neural network series. I attempt to discuss backpropagation, but it mostly goes haywire. 30:20 ...",
+    "title": "Coding Train Live 115 - Backpropagation",
+    "description": "This live stream is a continuation of neural network series. I attempt to discuss backpropagation, but it mostly goes haywire.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/XHj52k75PYo/default.jpg",
@@ -4105,7 +4129,7 @@
   },
   {
     "id": "iCxqLVm2H3w",
-    "title": "Live Stream #114: Neural Networks Continued",
+    "title": "Coding Train Live 114: Neural Networks Continued &amp; Dithering Challenge",
     "description": "This live stream continues my series on neural networks: Matrix class improvements and the \"feed forward\" algorithm.",
     "thumbnails": {
       "default": {
@@ -4153,8 +4177,8 @@
   },
   {
     "id": "dEWmwQMKgIk",
-    "title": "Live Stream #112: Happy Holidays from the Coding Train!",
-    "description": "In this holiday special, I raise funds for the Processing Foundation through music (sung very badly) and code. For more: ...",
+    "title": "Coding Train Live 112: Happy Holidays from the Coding Train!",
+    "description": "In this holiday special, I raise funds for the Processing Foundation through music (sung very badly) and code. Snowfall ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/dEWmwQMKgIk/default.jpg",
@@ -4225,8 +4249,8 @@
   },
   {
     "id": "4ncCxWm6jj0",
-    "title": "Live Stream #110: WebGL with p5.js Continued",
-    "description": "In this live session, I continue exploring WEBGL rendering with the p5.js library. 25:38 - Lights and Material 1:01:23 - Textures ...",
+    "title": "Coding Train Live 110: WebGL with p5.js Continued",
+    "description": "In this live session, I continue exploring WEBGL rendering with the p5.js library. Timestamps: 25:38 - Lights and Material 1:01:23 ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/4ncCxWm6jj0/default.jpg",
@@ -4249,7 +4273,7 @@
   },
   {
     "id": "Gi9PuLHlzzI",
-    "title": "Live Stream #109: WebGL with p5.js",
+    "title": "Coding Train Live 109: WebGL with p5.js",
     "description": "In this live session, I explore the p5.js WEBGL renderer. I cover some fundamentals and attempt a viewer-suggested coding ...",
     "thumbnails": {
       "default": {
@@ -4273,7 +4297,7 @@
   },
   {
     "id": "U8S1qDjIE2Y",
-    "title": "Live Stream #108: More OOP with ES6 &amp; The Game of Life",
+    "title": "Coding Train Live 108: More OOP with ES6 &amp; The Game of Life",
     "description": "This live session continues my tutorials on Object Oriented Programming with ES6. I also attempt a coding challenge: Conway's ...",
     "thumbnails": {
       "default": {
@@ -4321,8 +4345,8 @@
   },
   {
     "id": "y0zS83xj0g0",
-    "title": "Live Stream #106.2: Chrome Extensions - Part 2",
-    "description": "This is the continuation of Live Stream 106.1 about Chrome Extensions. Edited videos coming soon! 19:05 - Coding Challenge: ...",
+    "title": "Coding Train Live 106: Chrome Extensions - Part 2",
+    "description": "This is the continuation of Live Stream 106.1 about Chrome Extensions. Image extension challenge ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/y0zS83xj0g0/default.jpg",
@@ -4393,7 +4417,7 @@
   },
   {
     "id": "gFqBnxIm5Us",
-    "title": "Live Stream #104: Chatbots with p5.Speech, More OOP in JS &amp; Paperclips!",
+    "title": "Coding Train Live 104: Chatbots with p5.Speech, More OOP in JS &amp; Paperclips!",
     "description": "In this live episode, I continue the chatbots series with the p5.Speech(http://ability.nyu.edu/p5.js-speech/) library. I also continue ...",
     "thumbnails": {
       "default": {
@@ -4417,7 +4441,7 @@
   },
   {
     "id": "Pscq691SADc",
-    "title": "Live Stream #103: More on JavaScript Objects &amp; Chatbots with RiveScript",
+    "title": "Coding Train Live 103: More on JavaScript Objects &amp; Chatbots with RiveScript",
     "description": "In this live episode, I begin a new series on Chatbots starting with RiveScript. I also continue to update my introductory JavaScript ...",
     "thumbnails": {
       "default": {
@@ -4441,7 +4465,7 @@
   },
   {
     "id": "-RvrDZd1xVw",
-    "title": "Live Stream #102: Intro to ES6 Classes - OOP in JavaScript",
+    "title": "Coding Train Live 102: Intro to ES6 Classes - OOP in JavaScript &amp; Recursion Challenge",
     "description": "In this live stream, I tackle the subject of ES6 classes and Object Oriented Programming in JavaScript. I also do a short coding ...",
     "thumbnails": {
       "default": {
@@ -4465,7 +4489,7 @@
   },
   {
     "id": "PQwfop4bewM",
-    "title": "Live Stream #101.2: &quot;let&quot; vs &quot;var&quot;, &quot;const&quot;,  10 PRINT,  Wikipedia API &amp; more! - Part 2",
+    "title": "Coding Train Live 101: &quot;let&quot; vs &quot;var&quot;, &quot;const&quot;,  10 PRINT,  Wikipedia API &amp; more! - Part 2",
     "description": "In this live stream, I discuss a variety topics: ES6 \"let\" and \"const\", 10PRINT, the Wikipedia API, simple harmonic motion and ...",
     "thumbnails": {
       "default": {
@@ -4489,7 +4513,7 @@
   },
   {
     "id": "bWti0vTbgKU",
-    "title": "Live Stream #101.1: &quot;let&quot; vs &quot;var&quot;, &quot;const&quot;, 10 PRINT,  Wikipedia API &amp; more! - Part 1",
+    "title": "Coding Train Live101.1: &quot;let&quot; vs &quot;var&quot;, &quot;const&quot;, 10 PRINT,  Wikipedia API &amp; more! - Part 1",
     "description": "In this live stream, I discuss a variety topcs: ES6 \"let\" and \"const\", 10PRINT, the Wikipedia API, simple harmonic motion and ...",
     "thumbnails": {
       "default": {
@@ -4513,7 +4537,7 @@
   },
   {
     "id": "BcbS0MR3vxQ",
-    "title": "Live Stream #100.2: Transformations and Clocks with p5.js - Part 2",
+    "title": "Coding Train Live 100: Transformations and Clocks with p5.js - Part 2",
     "description": "Live Stream #100!! I discussion matrix transformations (translate, rotate, scale, push and pop) with the p5.js library. I also attempt a ...",
     "thumbnails": {
       "default": {
@@ -4537,7 +4561,7 @@
   },
   {
     "id": "tXjI6evU-so",
-    "title": "Live Stream #100.1: Transformations and Clocks with p5.js - Part 1",
+    "title": "Coding Train Live 100.1: Transformations and Clocks with p5.js - Part 1",
     "description": "Live Stream #100!! I discussion matrix transformations (translate, rotate, scale, push and pop) with the p5.js library. I also attempt a ...",
     "thumbnails": {
       "default": {
@@ -4609,7 +4633,7 @@
   },
   {
     "id": "cmffV5rMSEU",
-    "title": "Live Stream #98: Starting Series on Neural Networks",
+    "title": "Coding Train Live 98: Starting Series on Neural Networks",
     "description": "In this live stream, I begin the long process of building a neural network library. I cover the concept of a \"multi-layer perceptron\" as ...",
     "thumbnails": {
       "default": {
@@ -4681,7 +4705,7 @@
   },
   {
     "id": "M9wEM0UKFks",
-    "title": "Live Stream #95: End of Session 3 + Start of Session 4 of &quot;Intelligence and Learning&quot;",
+    "title": "Coding Train Live 95: End of Session 3 + Start of Session 4 of &quot;Intelligence and Learning&quot;",
     "description": "In this live stream, I explain the math behind gradient descent from my previous linear regression video. I also begin exploring the ...",
     "thumbnails": {
       "default": {
@@ -4705,7 +4729,7 @@
   },
   {
     "id": "S6NQFDZkRMo",
-    "title": "Live Stream #94: Session 3 of “Intelligence and Learning” - Part 3",
+    "title": "Coding Train Live 94: Session 3 of “Intelligence and Learning” - Part 3",
     "description": "In this live stream, I continue my Machine Learning series, covering Linear Regression with Gradient Descent. I also discuss some ...",
     "thumbnails": {
       "default": {
@@ -4729,7 +4753,7 @@
   },
   {
     "id": "5zbF3VXAAto",
-    "title": "Live Stream #93: Session 3 of “Intelligence and Learning” Continued",
+    "title": "Coding Train Live 93: Session 3 of “Intelligence and Learning” Continued",
     "description": "In this live stream, I continue my series on Machine Learning, covering Linear Regression. I demonstrate how to code linear ...",
     "thumbnails": {
       "default": {
@@ -4825,7 +4849,7 @@
   },
   {
     "id": "NCvdjnN9UfI",
-    "title": "Live Stream #90: Session 2 of “Intelligence and Learning” Continued",
+    "title": "Coding Train Live 90: Session 2 of “Intelligence and Learning” Continued",
     "description": "In this live stream, I attempt to create a solution to the Traveling Sales Person Coding Challenge (https://youtu.be/BAejnwN4Ccw) ...",
     "thumbnails": {
       "default": {
@@ -5281,8 +5305,8 @@
   },
   {
     "id": "pF0cadg2mg0",
-    "title": "Live Stream #71: Coding Challenges: Circle Packing and White House Data Visualization",
-    "description": "Happy New Year! In this first Live Stream of 2017, I look at a simple algorithm for \"Circle Packing\" and animate the process of ...",
+    "title": "Coding Train Live 71: Coding Challenges: Circle Packing and White House Data Visualization",
+    "description": "In this first Live Stream of 2017, I look at a simple algorithm for \"Circle Packing\" and animate the process of filling a 2D space with ...",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/pF0cadg2mg0/default.jpg",
@@ -5377,7 +5401,7 @@
   },
   {
     "id": "lCzB9V9L8d0",
-    "title": "Live Stream #68.3: Session 8 - Programming from A to Z - Part 3",
+    "title": "Coding Train Live Stream #68: Session 8 - Programming from A to Z  - Part 3",
     "description": "Today's session is a Part 3 of \"How to build an API with node.js\" This live stream covers the subject of Sentiment Analysis.",
     "thumbnails": {
       "default": {
@@ -5449,7 +5473,7 @@
   },
   {
     "id": "_FABYvnTnpQ",
-    "title": "Live Stream #66: Session 8.1 - Programming from A to Z - Part 1",
+    "title": "Coding Train Live 66: Session 8.1 - Programming from A to Z - Part 1",
     "description": "Today's session covers how to build an API with node.js (Session 8 of the \"Programming from A to Z\" class at ITP ...",
     "thumbnails": {
       "default": {
@@ -5545,7 +5569,7 @@
   },
   {
     "id": "DIXtg5VVz2E",
-    "title": "Live Stream #52: Genetic Algorithms",
+    "title": "Coding Train Live 52: Genetic Algorithms",
     "description": "This entire Live Stream is dedicated to Genetic Algorithms! I cover what defines a genetic algorithm and how it relates to brute ...",
     "thumbnails": {
       "default": {
@@ -5569,7 +5593,7 @@
   },
   {
     "id": "lFiPlk2KxQA",
-    "title": "Live Stream #51: Loading Animation Q&amp;A and Blob Detection with Persistence",
+    "title": "Coding Train Live 51: Loading Animation Q&amp;A and Blob Detection with Persistence",
     "description": "In this Live Stream, I answer a multi-part question submitted by a viewer following my previous Loading Animation in p5.js video ...",
     "thumbnails": {
       "default": {
@@ -5617,7 +5641,7 @@
   },
   {
     "id": "h22thzVaMtY",
-    "title": "Live Stream #49b - Blob Detection Addendum and Q&amp;A",
+    "title": "Coding Train Live 49b - Blob Detection Addendum and Q&amp;A",
     "description": "In this brief addendum to the Live Stream #49, I correct a mistake I made in the previous Blob Detection video. I also answer ...",
     "thumbnails": {
       "default": {
@@ -5641,7 +5665,7 @@
   },
   {
     "id": "jQdvM69nQb8",
-    "title": "Live Stream #49a: Q&amp;A on WebGL and Improved Blob Detection",
+    "title": "Coding Train Live 49a: Q&amp;A on WebGL and Improved Blob Detection",
     "description": "In this Live Stream, I answer a viewer question on the topic of WebGL in p5.js. I also continue my series on Computer Vision with ...",
     "thumbnails": {
       "default": {
@@ -5833,8 +5857,8 @@
   },
   {
     "id": "ELpZW62HGVs",
-    "title": "Live Stream #37: 3D Terrain Generation",
-    "description": "Live from sfpc.io! In this video, I create a 3D moving terrain using Perlin Noise and the beginShape() function in Processing. 28:55 ...",
+    "title": "Coding Train Live 37: 3D Terrain Generation",
+    "description": "Live from sfpc.io! In this video, I create a 3D moving terrain using Perlin Noise and the beginShape() function in Processing.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/ELpZW62HGVs/default.jpg",
@@ -5857,7 +5881,7 @@
   },
   {
     "id": "G4fTU4vPKH8",
-    "title": "Live Stream #36: Git and GitHub Tutorials - Overview of Git in Terminal",
+    "title": "Coding Train Live 36: Git and GitHub Tutorials - Overview of Git in Terminal",
     "description": "Live from sfpc.io! In this video, I cover many topics pertaining to Git and how to use it with Unix command line. I go over some of ...",
     "thumbnails": {
       "default": {
@@ -6001,7 +6025,7 @@
   },
   {
     "id": "CQpGhT-RLkM",
-    "title": "Live Stream #29: Processing and p5.js - Slit-scan and Seriously.js",
+    "title": "Coding Train Live 29: Processing and p5.js - Slit-scan and Seriously.js",
     "description": "In this live stream from sfpc.io, I use Processing and p5.js to create a \"slit-scan\" effect and I also give a tutorial on how to use the ...",
     "thumbnails": {
       "default": {
@@ -6025,8 +6049,8 @@
   },
   {
     "id": "B8tpfNH2gvM",
-    "title": "Live Stream #28: Hamilton Lottery Simulator - Probability and DOM",
-    "description": "Live from sfpc.io! In this video, using p5.js, we build a Hamilton Tickets Lottery Simulator and explain the math behind it. 24:55 ...",
+    "title": "Coding Train Live 28: Hamilton Lottery Simulator - Probability and DOM",
+    "description": "Live from sfpc.io! In this video, using p5.js, we build a Hamilton Tickets Lottery Simulator and explain the math behind it.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/B8tpfNH2gvM/default.jpg",
@@ -6049,7 +6073,7 @@
   },
   {
     "id": "VPnmA4vl6YU",
-    "title": "Live Stream #27: Checkbox Mirror and Painting with Pixels in p5.js",
+    "title": "Coding Train Live 27: Checkbox Mirror and Painting with Pixels in p5.js",
     "description": "Live from sfpc.io! In this video, I show you how to manipulate DOM elements and also paint with pixels, both according to a live ...",
     "thumbnails": {
       "default": {
@@ -6577,8 +6601,8 @@
   },
   {
     "id": "_8xBqVPjeCE",
-    "title": "Live Stream #8.2: HTML / CSS / DOM with p5.js - Part 2",
-    "description": "Taking questions and making videos about DOM manipulation. Help us caption & translate this video! http://amara.org/v/Qbu8/ ...",
+    "title": "Coding Train Live 8: HTML / CSS / DOM with p5.js - Part 2",
+    "description": "Taking questions and making videos about DOM manipulation. Website: http://thecodingtrain.com/ Share Your Creation!",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/_8xBqVPjeCE/default.jpg",
@@ -6745,8 +6769,8 @@
   },
   {
     "id": "6G02PLQ8L7k",
-    "title": "Live Stream #3.2: p5.js Conditionals and Loops - Part 2",
-    "description": "Part 2 of https://www.youtube.com/watch?v=uEVJRE_6v0A Help us caption & translate this video! http://amara.org/v/QbvL/ ...",
+    "title": "Coding Train Live 3: p5.js Conditionals and Loops - Part 2",
+    "description": "Part 2 of https://www.youtube.com/watch?v=uEVJRE_6v0A Website: http://thecodingtrain.com/ Share Your Creation!",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/6G02PLQ8L7k/default.jpg",
@@ -6793,8 +6817,8 @@
   },
   {
     "id": "TdUC3JgwUJY",
-    "title": "Live Stream #1: p5.js Video Lesson Recording Session",
-    "description": "Giving this a try, the *raw* footage Help us caption & translate this video! http://amara.org/v/QbvW/ Code of Conduct: ...",
+    "title": "Coding Train Live 1: p5.js Video Lesson Recording Session",
+    "description": "Giving this a try, the *raw* footage Website: http://thecodingtrain.com/ Share Your Creation!",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/TdUC3JgwUJY/default.jpg",

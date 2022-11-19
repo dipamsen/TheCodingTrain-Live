@@ -13,6 +13,8 @@ function App() {
   const { page = "1" } = useParams<{ page: string }>();
   const navigate = useNavigate();
 
+  console.log(videos);
+
   useEffect(() => {
     getVideos(+page).then(([data, totalVideos]) => {
       setVideos(data);
